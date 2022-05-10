@@ -1,0 +1,21 @@
+.container{
+    margin:auto;
+}
+.button{
+    padding: 20px;
+    margin: 0px 3px;
+    width: 60px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.row{
+    margin: 8px;
+}
+.row input{
+    font-size: 24px;
+    margin: 0px ;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
